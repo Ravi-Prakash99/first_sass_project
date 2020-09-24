@@ -723,7 +723,7 @@ body {
 
 .section-features {
   padding: 15rem 0;
-  background-image: linear-gradient(to right bottom, #ffc0cb, rgba(230, 90, 113, 0.902), rgba(80, 80, 231, 0.902)), url(/image/eiffel-tower-crop.jpg);
+  background-image: linear-gradient(to right bottom, #ffc0cb, rgba(230, 90, 113, 0.902), rgba(80, 80, 231, 0.902)), url(../image/eiffel-tower-crop.jpg);
   background-size: cover;
   transform: skewY(-6deg);
   margin-top: -11rem; }
